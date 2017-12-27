@@ -1,0 +1,26 @@
+{
+  "name": "julian",
+  "version": "1.0.0",
+  "description": "Correlativas",
+  "main": "prueba.js",
+  "dependencies": {
+    "graph-data-structure": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proyecto"
+  ],
+  "author": "julian",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komod0/Grafo-Correlativas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/komod0/Grafo-Correlativas/issues"
+  },
+  "homepage": "https://github.com/komod0/Grafo-Correlativas#readme"
+}
